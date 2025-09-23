@@ -28,6 +28,6 @@ let state;
 // object
 console.log(typeof "aaru");
 console.log(typeof age);
-console.log(typeof null);//object
-console.log(typeof undefined);//undefind
+console.log(typeof null);
+console.log(typeof undefined);
 
