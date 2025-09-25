@@ -22,5 +22,17 @@ const bigNumber = 121211311313n
 
 // Array, Object, Functions
 
+const heros = {"shaktiman", "nagraj", "aadi"}
+let myObj = {
+    name: "aaru",
+    age: 22,
+
+}
+
+const myFunction = function(){
+     console.log("hello");
+}
 
 
+
+console.log(typeof bigNumber);
